@@ -1,6 +1,6 @@
 # gui implementation for gabow algorithm 
 
-[penjelasan algoritma]($3a2c.pdf)
+[penjelasan algoritma](https://pdfs.semanticscholar.org/6020/e1f2d770525d48067158687b5fcbf1a73a2c.pdf)
 
 [java 
 source](https://algs4.cs.princeton.edu/42digraph/GabowSCC.java.html)
