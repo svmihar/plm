@@ -1,10 +1,19 @@
 # gui implementation for gabow algorithm 
 
-[penjelasan algoritma](https://pdfs.semanticscholar.org/6020/e1f2d770525d48067158687b5fcbf1a73a2c.pdf)
-![gabow](img/gabow.gif)
+[penjelasan algoritma](https://pdfs.semanticscholar.org/6020/e1f2d770525d48067158687b5fcbf1a73a2c.pdf)   
+![gabow](img/gabow.gif)   
 [java 
-source](https://algs4.cs.princeton.edu/42digraph/GabowSCC.java.html)
-[digraph java source](https://algs4.cs.princeton.edu/42digraph/)
+source](https://algs4.cs.princeton.edu/42digraph/GabowSCC.java.html)   
+[digraph java source](https://algs4.cs.princeton.edu/42digraph/)    
+
+
+## screenshot
+isi    
+![](/img/isi.PNG)    
+
+kosong    
+![](/img/kosong.PNG)
+
 
 ## all assert and unit test in java file is not implemented in matlab
 

@@ -155,4 +155,8 @@ a = GabowSSC;
 a.ssc(array1,array2);
 axes = (handles.axes1) ;
 d = digraph(array1,array2);
+disp(a.count)
+go = sprintf('there are %d connected part', a.count);
+set(handles.text5, 'String', go);
+
 plot(d, 'Layout','force');
